@@ -470,41 +470,7 @@
     background-color: #dc4c7c;
 
 }
-/* 
-@media screen and (max-width: 1600px) {
 
-    .zone5 {
-        height: 1000px;
-    }
-
-    .zone5 img {
-        left: 50%;
-        top: 48%;
-    }
-
-    .zone41 {
-        height: 800px;
-    }
-
-
-}
-
-@media screen and (max-width: 1400px) {
-
-    .zone5 {
-        height: 820px;
-    }
-
-    .zone5 img {
-        left: 50%;
-        top: 38%;
-    }
-
-    .zone41 {
-        height: 600px;
-    }
-
-} */
 
 @media screen and (max-width: 1179px) {
 
@@ -704,4 +670,18 @@
         margin-right: 3px;
         padding-top: 2px;
     }
+    .zone101{
+        height: 300px;
+    }
+
+}
+
+ 
+@media screen and (max-width: 390px) {
+    .zone41 {
+        height: 190px;
+    }
+   
+    
+   
 }
